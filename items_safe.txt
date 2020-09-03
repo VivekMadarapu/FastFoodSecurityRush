@@ -1,0 +1,11 @@
+Handbag
+Pencil
+Phone
+Card
+Pen
+Notebook
+Wallet
+Medicine
+Keys
+
+

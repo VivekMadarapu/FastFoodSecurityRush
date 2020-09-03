@@ -1,0 +1,14 @@
+Handbag
+Phone
+Card
+Pen
+Notebook
+Knife
+Wallet
+Pencil
+Medicine
+Gun
+Keys
+Bomb
+Grenade
+
